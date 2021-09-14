@@ -1,0 +1,25 @@
+{
+  "name": "09-14-21",
+  "version": "1.0.0",
+  "description": "- More on Sequelize\r - Model, View, Controller\r - Intro to Handlebars",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QFults/09-14-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QFults/09-14-21/issues"
+  },
+  "homepage": "https://github.com/QFults/09-14-21#readme",
+  "dependencies": {
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
